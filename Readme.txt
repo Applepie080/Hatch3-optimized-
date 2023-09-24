@@ -1,0 +1,7 @@
+- This is a optimized version for instagram cause of the login button.
+- Written in python3 
+- Can be run on any os (yes even macOS)
+- Go to Test_2.py --> function() --> passlist = "path" and change the already written path to the passlist path you desire (ex. C:\Files\passlist.txt)
+- Create a folder named "webdrivers" in the system disk (C:\) and then add the folder to system path
+- Make sure you have the latest version of edge and msedgedriver.exe 
+- Many thanks to FlorianBord2 for the original version of Hatch3
