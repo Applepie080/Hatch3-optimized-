@@ -5,3 +5,4 @@
 - Create a folder named "webdrivers" in the system disk (C:\) and then add the folder to system path
 - Make sure you have the latest version of edge and msedgedriver.exe 
 - Many thanks to FlorianBord2 for the original version of Hatch3
+- Go to FlorianBord2 repo for more details and further instructions
